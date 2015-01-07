@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Cloudsben
+tagline:          'Happy Hacking'
+description:      'Happy Hacking'
+url:              http://cloudsben.com
+baseurl:          /
+
+author:
+  name:           'cloudsben'
+  url:            https://twitter.com/cloudsben
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/cloudsben
